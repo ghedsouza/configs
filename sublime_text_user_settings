@@ -1,17 +1,16 @@
 {
-    "color_scheme": "Packages/User/Monokai (Flake8Lint).tmTheme",
-
-    // Set to true to insert spaces when tab is pressed
-    "translate_tabs_to_spaces": true,
-
-    // Set to true to removing trailing white space on save
-    "trim_trailing_white_space_on_save": true,
-
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"enable_tab_scrolling": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
     // Show the full path to files in the title bar.
     // On OS X, this value is overridden in the platform specific settings, so
     // you'll need to place this line in your user settings to override it.
     "show_full_path": true,
-
     // Columns in which to display vertical rulers
-    "rulers": [80]
+    "rulers": [79],
 }
