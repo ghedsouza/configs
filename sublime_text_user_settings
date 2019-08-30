@@ -1,16 +1,24 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"auto_match_enabled": false,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
 	"enable_tab_scrolling": false,
+	"font_size": 12,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"match_brackets": true,
+	"match_brackets_angle": true,
+	"match_brackets_braces": true,
+	"match_brackets_content": true,
+	"match_brackets_square": true,
+	"match_tags": true,
+	"rulers":
+	[
+		79
+	],
+	"show_full_path": true,
+	"theme": "Default.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
-    // Show the full path to files in the title bar.
-    // On OS X, this value is overridden in the platform specific settings, so
-    // you'll need to place this line in your user settings to override it.
-    "show_full_path": true,
-    // Columns in which to display vertical rulers
-    "rulers": [79],
+	"trim_trailing_white_space_on_save": true
 }
